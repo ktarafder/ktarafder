@@ -1,7 +1,8 @@
 ## Hi I'm [Kamrul](https://www.linkedin.com/in/kamrul-tarafder/) 👋🏽
-I code sometimes <br><br>
-### Languages, Frameworks, DBs
+I code sometimes <br>
+### Languages
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/typescript-logo.svg" /></a>
+<br><br>
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-light-mode-only)
 
