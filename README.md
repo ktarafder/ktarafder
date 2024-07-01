@@ -1,4 +1,4 @@
-# Hi I'm Kamrul 👋🏽
+## Hi I'm [Kamrul](https://www.linkedin.com/in/kamrul-tarafder/) 👋🏽
 I code sometimes <br><br>
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-light-mode-only)
