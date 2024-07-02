@@ -3,9 +3,9 @@ I code sometimes <br>
 ### Languages
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/typescript-logo.svg" /></a>
 <br><br>
---- BEGIN RANDOM STATS NO ONE READS ---
+--- BEGIN RANDOM STATS NO ONE READS --- <br>
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-light-mode-only) <br>
 --- END RANDOM STATS NO ONE READS ---
 
 <!--
