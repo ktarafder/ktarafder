@@ -1,5 +1,6 @@
 ## Hi I'm [Kamrul](https://www.linkedin.com/in/kamrul-tarafder/) 👋🏽
-I code sometimes <br>
+I code sometimes <br><br>
+Most of my cool stuff is in private repos... trust
 ### Languages
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/typescript-logo.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="python.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/python-logo.svg" /></a>
