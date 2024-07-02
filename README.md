@@ -3,8 +3,10 @@ I code sometimes <br>
 ### Languages
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/typescript-logo.svg" /></a>
 <br><br>
+--- BEGIN RANDOM STATS NO ONE READS ---
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ktarafder/githubstats/master/generated/overview.svg#gh-light-mode-only)
+--- END RANDOM STATS NO ONE READS ---
 
 <!--
 **ktarafder/ktarafder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
