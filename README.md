@@ -5,7 +5,7 @@ Most of my cool stuff is in private repos... trust
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/typescript-logo.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="python.org" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/python-logo.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="mozilla js docs" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/javascript-logo.svg" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="java.com" src="https://github.com/ktarafder/profile-assets/blob/main/languages/java-logo.svg"></a>
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="java.com" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/java-logo.svg"></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="php.net" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/PHP-logo.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="left" alt="C# docs" height="32px" src="https://github.com/ktarafder/profile-assets/blob/main/languages/csharp-logo.svg" /></a>
 <br><br>
